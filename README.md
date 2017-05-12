@@ -12,3 +12,6 @@ Contribute
 
 ## Comments
 Comments
+
+### Copyright
+Added in simple.html
