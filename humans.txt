@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>Some human to contribute<twitter>
 
 # THANKS
 
