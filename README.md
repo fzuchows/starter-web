@@ -21,3 +21,4 @@ Added in simple.html
 
 Stashing (after git stash in work dir) text entered
 Some more text for stashing example - with an untracked file stashed git stash -u
+More test for stash
