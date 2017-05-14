@@ -19,7 +19,4 @@ some human to contribute
 ### Copyright
 Added in simple.html
 
-
-some text to check on my feature branch changes
-- now the previous line came from the rebase master branch into myfeature
--- now we will add this to change README in the myfeature branch
+Stashing (after git stash in work dir) text entered
