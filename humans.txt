@@ -9,6 +9,7 @@
 
    to jumpyyyyyy and all people I know 
    added text for stash
+   added text for multiple stash (after stash apply of stash@{1} and stash clean of the others)
 
 # TECHNOLOGY COLOPHON
 
